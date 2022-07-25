@@ -53,8 +53,6 @@
 
 ![BeastBoyADI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastBoyADI&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeastBoyADI&langs_count=10&layout=compact)
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeastBoyADI&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeastBoyADI&theme=vue)
