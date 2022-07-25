@@ -10,8 +10,7 @@
 ![Name](https://img.shields.io/badge/Name-BeastBoyADI-FF8706.svg)
 ![Age](https://img.shields.io/badge/Age-19-FF8706.svg)
 ![Quote](https://img.shields.io/badge/Quote-Give_me_ideas_about_new_commands-FF8706.svg)
-![Fav Font](https://img.shields.io/badge/Font-Cascadia_Code-FF8706.svg)
-![CSE](https://img.shields.io/badge/Studying-B.Com._Hons.-FF8706.svg)
+![bcomhons](https://img.shields.io/badge/Studying-B.Com._Hons.-FF8706.svg)
 
 <h1 align="center" color="#FF8706">Trophies
 </h1>
