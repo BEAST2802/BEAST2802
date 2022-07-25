@@ -49,7 +49,7 @@
 <h1 align="center" color="#FF8706">My Stats
 </h1>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BeastBoyADI.BeastBoyADI)
 
 ![BeastBoyADI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastBoyADI&count_private=true&show_icons=true)
 
