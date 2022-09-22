@@ -44,6 +44,9 @@
 [![Discord](https://img.shields.io/badge/Support_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bX6AT65PmP)
 [![Discord](https://img.shields.io/badge/Invite_Me-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=907491552702644246&scope=bot+applications.commands&permissions=167332144383)
 
+### Collection
+[![npm package](https://nodei.co/npm/@beastboyadi/collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@beastboyadi/collection/)
+
 
 <h1 align="center" color="#FF8706">My Stats
 </h1>
