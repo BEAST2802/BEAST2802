@@ -1,22 +1,22 @@
 <h1 align="center" color="#8700ff">Hello There 
 </h1>
 
-[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=FF8706&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+BeastBoyADI;-%3E+Though+my+real+name+is+Aditya+Agarwal;-%3E+I+am+19+years+old;-%3E+I+am+a+discord+bot+developer;-%3E+And+a+lover+of+games;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/beastboyadi)
+[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=FF8706&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+BeastBoyADI;-%3E+Though+my+real+name+is+Aditya+Agarwal;-%3E+I+am+19+years+old;-%3E+I+am+a+Javascript+Developer;-%3E+And+a+lover+of+games;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/BeastBoyADI)
 
 <h1 align="center" color="#FF8706">Description Badges
 </h1>
 <h3 align="center">A Cool Collection of Badges describing me</h3>
 
-![Name](https://img.shields.io/badge/Name-BeastBoyADI-FF8706.svg)
-![Age](https://img.shields.io/badge/Age-19-FF8706.svg)
-![Quote](https://img.shields.io/badge/Quote-Give_me_ideas_about_new_commands-FF8706.svg)
-![bcomhons](https://img.shields.io/badge/Studying-B.Com._Hons.-FF8706.svg)
+![Name](https://img.shields.io/badge/Name-BeastBoyADI-FF8706.svg?style=for-the-badge)
+![Age](https://img.shields.io/badge/Age-19-FF8706.svg?style=for-the-badge)
+![Quote](https://img.shields.io/badge/Quote-Give_me_ideas_about_new_projects-FF8706.svg?style=for-the-badge)
+![bcomhons](https://img.shields.io/badge/Studying-B.Com._Hons.-FF8706.svg?style=for-the-badge)
 
 <h1 align="center" color="#FF8706">Trophies
 </h1>
 <h3 align="center">A Cool Collection of Trophies</h3>
 
-[![BeastBoyADI's Trophies](https://github-profile-trophy.vercel.app/?username=BeastBoyADI)](https://github.com/ryo-ma/github-profile-trophy)
+[![BeastBoyADI's Trophies](https://github-profile-trophy.vercel.app/?username=BeastBoyADI)](https://github.com/BeastBoyADI/github-profile-trophy)
 
 <h1 align="center" color="#FF8706">Socials & Skills
 </h1>
@@ -33,20 +33,20 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     
 ### Socials
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/beastboyadi)
-[![Discord](https://img.shields.io/badge/BEAST%232802-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/742945200082780160)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/BEAST_2802)
+[![CodeChef](https://img.shields.io/badge/CodeChef-BeastBoyADI-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/beastboyadi)
+[![Discord](https://img.shields.io/badge/Discord-BEAST%232802-%237289DA.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/742945200082780160)
+[![Reddit](https://img.shields.io/badge/Reddit-BEAST_2802-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/BEAST_2802)
 
 <h1 align="center" color="#FF8706">Current Project</h1>
 
 ### Beast Era
 [![BeastEra](https://images-ext-2.discordapp.net/external/VZJyN6L8Vjm3_kRRgdVmhRqDRlBR5QUO8cHE-uwFRnc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/907491552702644246/adb4a041cb3f24b5131e94f43454d562.webp)](https://discord.com/oauth2/authorize?client_id=907491552702644246&scope=bot+applications.commands&permissions=167332144383)
-[![Discord](https://img.shields.io/badge/Support_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bX6AT65PmP)
-[![Discord](https://img.shields.io/badge/Invite_Me-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=907491552702644246&scope=bot+applications.commands&permissions=167332144383)
+[![Discord Server](https://img.shields.io/discord/888465044868833331?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/bX6AT65PmP)
+[![Invite Me](https://img.shields.io/badge/Invite_Me-Beast_Era-%237289DA.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=907491552702644246&scope=bot+applications.commands&permissions=167332144383)
 
 ### Collection
 [![npm package](https://nodei.co/npm/@beastboyadi/collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@beastboyadi/collection/)
-[![Discord](https://img.shields.io/badge/Discord_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bX6AT65PmP)
+[![Discord Server](https://img.shields.io/discord/888465044868833331?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/bX6AT65PmP)
 [![NPM version](https://img.shields.io/npm/v/@beastboyadi/collection.svg?maxAge=3600&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@beastboyadi/collection)
 [![NPM downloads](https://img.shields.io/npm/dt/@beastboyadi/collection.svg?maxAge=3600&style=for-the-badge)](https://www.npmjs.com/package/@beastboyadi/collection)
 [![LICENSE](https://img.shields.io/github/license/BeastBoyADI/collection.svg?maxAge=3600&style=for-the-badge)](LICENSE)
