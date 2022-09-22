@@ -46,7 +46,10 @@
 
 ### Collection
 [![npm package](https://nodei.co/npm/@beastboyadi/collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@beastboyadi/collection/)
-
+[![Discord](https://img.shields.io/badge/Discord_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bX6AT65PmP)
+[![NPM version](https://img.shields.io/npm/v/@beastboyadi/collection.svg?maxAge=3600&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@beastboyadi/collection)
+[![NPM downloads](https://img.shields.io/npm/dt/@beastboyadi/collection.svg?maxAge=3600&style=for-the-badge)](https://www.npmjs.com/package/@beastboyadi/collection)
+[![LICENSE](https://img.shields.io/github/license/BeastBoyADI/collection.svg?maxAge=3600&style=for-the-badge)](LICENSE)
 
 <h1 align="center" color="#FF8706">My Stats
 </h1>
