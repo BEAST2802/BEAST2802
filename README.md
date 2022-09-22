@@ -41,11 +41,13 @@
 
 ### Beast Era
 [![BeastEra](https://images-ext-2.discordapp.net/external/VZJyN6L8Vjm3_kRRgdVmhRqDRlBR5QUO8cHE-uwFRnc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/907491552702644246/adb4a041cb3f24b5131e94f43454d562.webp)](https://discord.com/oauth2/authorize?client_id=907491552702644246&scope=bot+applications.commands&permissions=167332144383)
+
 [![Discord Server](https://img.shields.io/discord/888465044868833331?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/bX6AT65PmP)
 [![Invite Me](https://img.shields.io/badge/Invite_Me-Beast_Era-%237289DA.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=907491552702644246&scope=bot+applications.commands&permissions=167332144383)
 
 ### Collection
 [![npm package](https://nodei.co/npm/@beastboyadi/collection.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@beastboyadi/collection/)
+
 [![Discord Server](https://img.shields.io/discord/888465044868833331?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/bX6AT65PmP)
 [![NPM version](https://img.shields.io/npm/v/@beastboyadi/collection.svg?maxAge=3600&style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@beastboyadi/collection)
 [![NPM downloads](https://img.shields.io/npm/dt/@beastboyadi/collection.svg?maxAge=3600&style=for-the-badge)](https://www.npmjs.com/package/@beastboyadi/collection)
