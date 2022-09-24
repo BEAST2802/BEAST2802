@@ -58,10 +58,12 @@
 
 ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=BeastBoyADI.BeastBoyADI&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
-![BeastBoyADI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastBoyADI&count_private=true&show_icons=true)
+![BeastBoyADI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastBoyADI&count_private=true&show_icons=true&theme=tokyonight)
+
+![BeastBoyADI's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BeastBoyADI&theme=tokyonight)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeastBoyADI&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeastBoyADI&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeastBoyADI&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeastBoyADI&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeastBoyADI&theme=tokyonight&utcOffset=8)
