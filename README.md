@@ -3,6 +3,8 @@
 
 [![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=FF8706&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+BeastBoyADI;-%3E+Though+my+real+name+is+Aditya+Agarwal;-%3E+I+am+19+years+old;-%3E+I+am+a+Javascript+Developer;-%3E+And+a+lover+of+games;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/BeastBoyADI)
 
+![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=BeastBoyADI.BeastBoyADI&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+
 <h1 align="center" color="#FF8706">Description Badges
 </h1>
 <h3 align="center">A Cool Collection of Badges describing me</h3>
@@ -55,8 +57,6 @@
 
 <h1 align="center" color="#FF8706">My Stats
 </h1>
-
-![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=BeastBoyADI.BeastBoyADI&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
 ![BeastBoyADI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastBoyADI&count_private=true&show_icons=true&theme=tokyonight)
 
