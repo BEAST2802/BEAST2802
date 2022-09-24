@@ -4,7 +4,7 @@
 [![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=FF8706&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+BeastBoyADI;-%3E+Though+my+real+name+is+Aditya+Agarwal;-%3E+I+am+19+years+old;-%3E+I+am+a+Javascript+Developer;-%3E+And+a+lover+of+games;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/BeastBoyADI)
 
 ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=BeastBoyADI.BeastBoyADI&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
-
+[![Github](https://img.shields.io/github/followers/BeastBoyADI?label=Followers&logo=Github&style=for-the-badge&labelColor=000000)](https://github.com/BeastBoyADI)
 <h1 align="center" color="#FF8706">Description Badges
 </h1>
 <h3 align="center">A Cool Collection of Badges describing me</h3>
