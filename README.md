@@ -56,7 +56,7 @@
 <h1 align="center" color="#FF8706">My Stats
 </h1>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BeastBoyADI.BeastBoyADI)
+![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=BeastBoyADI.BeastBoyADI&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
 ![BeastBoyADI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastBoyADI&count_private=true&show_icons=true)
 
