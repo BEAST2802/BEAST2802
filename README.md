@@ -1,15 +1,15 @@
 <h1 align="center" color="#8700ff">Hello There 
 </h1>
 
-[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=FF8706&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+BeastBoyADI;-%3E+Though+my+real+name+is+Aditya+Agarwal;-%3E+I+am+19+years+old;-%3E+I+am+a+Javascript+Developer;-%3E+And+a+lover+of+games;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/BeastBoyADI)
+[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=FF8706&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+BEAST#2802;-%3E+Though+my+real+name+is+Aditya+Agarwal;-%3E+I+am+19+years+old;-%3E+I+am+a+Javascript+Developer;-%3E+And+a+lover+of+games;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/BEAST2802)
 
 ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=BeastBoyADI.BeastBoyADI&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
-[![Github](https://img.shields.io/github/followers/BeastBoyADI?label=Followers&logo=Github&style=for-the-badge&labelColor=000000)](https://github.com/BeastBoyADI)
+[![Github](https://img.shields.io/github/followers/BEAST2802?label=Followers&logo=Github&style=for-the-badge&labelColor=000000)](https://github.com/BEAST2802)
 <h1 align="center" color="#FF8706">Description Badges
 </h1>
 <h3 align="center">A Cool Collection of Badges describing me</h3>
 
-![Name](https://img.shields.io/badge/Name-BeastBoyADI-FF8706.svg?style=for-the-badge)
+![Name](https://img.shields.io/badge/Name-BEAST2802-FF8706.svg?style=for-the-badge)
 ![Age](https://img.shields.io/badge/Age-19-FF8706.svg?style=for-the-badge)
 ![Quote](https://img.shields.io/badge/Quote-Give_me_ideas_about_new_projects-FF8706.svg?style=for-the-badge)
 ![bcomhons](https://img.shields.io/badge/Studying-B.Com._Hons.-FF8706.svg?style=for-the-badge)
@@ -18,7 +18,7 @@
 </h1>
 <h3 align="center">A Cool Collection of Trophies</h3>
 
-[![BeastBoyADI's Trophies](https://github-profile-trophy.vercel.app/?username=BeastBoyADI)](https://github.com/BeastBoyADI/github-profile-trophy)
+[![BEAST's Trophies](https://github-profile-trophy.vercel.app/?username=BEAST2802)](https://github.com/BEAST2802/github-profile-trophy)
 
 <h1 align="center" color="#FF8706">Socials & Skills
 </h1>
@@ -58,12 +58,12 @@
 <h1 align="center" color="#FF8706">My Stats
 </h1>
 
-![BeastBoyADI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastBoyADI&count_private=true&show_icons=true&theme=tokyonight)
+![BeastBoyADI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEAST2802&count_private=true&show_icons=true&theme=tokyonight)
 
-![BeastBoyADI's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BeastBoyADI&theme=tokyonight)
+![BeastBoyADI's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BEAST2802&theme=tokyonight)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeastBoyADI&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BEAST2802&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeastBoyADI&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEAST2802&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeastBoyADI&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BEAST2802&theme=tokyonight&utcOffset=8)
