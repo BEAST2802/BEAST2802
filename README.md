@@ -1,7 +1,7 @@
 <h1 align="center" color="#8700ff">Hello There 
 </h1>
 
-[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=FF8706&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+BEAST#2802;-%3E+Though+my+real+name+is+Aditya+Agarwal;-%3E+I+am+19+years+old;-%3E+I+am+a+Javascript+Developer;-%3E+And+a+lover+of+games;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/BEAST2802)
+[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=FF8706&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+BEAST%232802;-%3E+Though+my+real+name+is+Aditya+Agarwal;-%3E+I+am+19+years+old;-%3E+I+am+a+Javascript+Developer;-%3E+And+a+lover+of+games;+++++++++++++++++++++;-%3E+Just+Exploring+multiple+things+here)](https://github.com/BEAST2802)
 
 ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=BeastBoyADI.BeastBoyADI&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 [![Github](https://img.shields.io/github/followers/BEAST2802?label=Followers&logo=Github&style=for-the-badge&labelColor=000000)](https://github.com/BEAST2802)
